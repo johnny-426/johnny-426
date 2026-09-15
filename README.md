@@ -33,7 +33,7 @@ internship opportunity in technology.
 
 ## Featured Projects
 
-### [Music Library CRUD in C](https://github.com/johnny-426/andre_projeto_musica)
+### [Music Library CRUD in C](https://github.com/johnny-426/music-library-c)
 Academic project developed in C involving structs, file handling, input validation, modularization and persistent CRUD operations.
 
 ### Churras da Galera (CdG)
